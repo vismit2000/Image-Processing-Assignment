@@ -7,7 +7,7 @@ clear all;
 close all;
 
 % Read input image
-image = imread('assign1.bmp');
+image = imread('input.bmp');
 image = double(image);
 [m, n] = size(image);
 
