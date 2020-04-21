@@ -14,4 +14,4 @@ Assignments submitted in the course (CS F311) Image Processing at BITS Pilani, P
 
 - `DCT_Image_Compression.m`: MATLAB file containing code for DCT_Image_Compression.m showing application of DCT to the image *cameraman.tif*
 
-- Contains *original image*, *reconstucted image* after lossy compression and *error image* showing absolute error during transformation
+- Contains *original image*, *reconstructed image* after lossy compression and *error image* showing absolute error during transformation
